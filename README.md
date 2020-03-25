@@ -14,3 +14,6 @@ La presente práctica hace uso de un lector RFID, el cual se conecta vía USB a 
 - Vídeo #1 Descripción: https://youtu.be/DSM3hyvdC-g
 - Vídeo #2 Materiales y montaje: https://youtu.be/X7rq77HlVzo
 - Vídeo #3 Implementación: https://youtu.be/h9hF1xbnWos
+
+## Desarrollo
+El desarrollo de la práctica se puede encontrar en el documento PDF “Raspberry Pi lector RFID”
