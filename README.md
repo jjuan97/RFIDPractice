@@ -17,3 +17,9 @@ La presente práctica hace uso de un lector RFID, el cual se conecta vía USB a 
 
 ## Desarrollo
 El desarrollo de la práctica se puede encontrar en el documento PDF “Raspberry Pi lector RFID”
+## Autores
+- ASTRID DANIELA NARVAEZ LOPEZ
+- SANTIAGO FELIPE YEPES CHAMORRO
+- JORGE ARMANDO MUÑOZ ORDOÑEZ
+- EDINSON DAVID LEON CHILITO
+- JUAN JOSE PAREDES ROSERO
