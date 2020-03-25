@@ -10,3 +10,7 @@ La presente práctica hace uso de un lector RFID, el cual se conecta vía USB a 
 - Etiqueta RFID o termo con tecnología RFID.
 - Placa Raspberry Pi con sistema operativo raspbian.
 - Python 2.7
+## Vídeos
+- Vídeo #1 Descripción: https://youtu.be/DSM3hyvdC-g
+- Vídeo #2 Materiales y montaje: https://youtu.be/X7rq77HlVzo
+- Vídeo #3 Implementación: https://youtu.be/h9hF1xbnWos
